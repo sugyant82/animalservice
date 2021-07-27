@@ -1,4 +1,4 @@
-# animalservice
+# animalservice  (an original work by Sugyant Chettri)
 
 There are two parts to this application 
 
