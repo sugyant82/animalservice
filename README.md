@@ -3,7 +3,7 @@
 There are two parts to this application 
 
 1) A Standalone Java Main class for running the solution to the prescribed questions.
-2) A full featured spring boot RESTful Web service
+2) A full featured spring boot RESTful Web service for quering the animal endpoints.
 
 **SETTING UP THE APPLICATION**
 
@@ -43,8 +43,10 @@ http://localhost:8080/animals
 
 <img width="1139" alt="Screenshot 2021-07-27 at 9 27 02 PM" src="https://user-images.githubusercontent.com/49311090/127162612-6ce85ab2-6a9d-4225-9f86-74bcd2dc22cf.png">
 
-**A NORMAL DOCK**
+**A NORMAL DUCK**
+
 http://localhost:8080/animals/duck
+
 <img width="564" alt="Screenshot 2021-07-27 at 9 27 19 PM" src="https://user-images.githubusercontent.com/49311090/127162646-24f0cbb2-425b-43b4-97b9-e740e17cbd85.png">
 
 
