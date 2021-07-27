@@ -1,4 +1,5 @@
-# animalservice  -----> (original work by Sugyant Chettri as part of singtel coding assignment on 27-July-2021)
+# animalservice  
+(This is an original work done by Sugyant Chettri as part of singtel coding assignment on 27-July-2021)
 
 There are two parts to this application 
 
