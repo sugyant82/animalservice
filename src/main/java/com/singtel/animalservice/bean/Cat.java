@@ -1,6 +1,6 @@
 package com.singtel.animalservice.bean;
 
-public class Cat extends Bird{
+public class Cat implements Animal{
 
 	private String type="ANIMAL";
 	private String name="CAT";
@@ -94,6 +94,27 @@ public class Cat extends Bird{
 	public boolean swim() {
 		System.out.println(swim);
 		return true;
+	}
+
+
+	@Override
+	public void setMorph(String morphType) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public void livingWith(String animal) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public boolean singInLanguage(String language) {
+		// TODO Auto-generated method stub
+		return false;
 	}
 
 
