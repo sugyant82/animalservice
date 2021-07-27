@@ -3,7 +3,7 @@ package com.singtel.animalservice.bean;
 public interface Animal {
 	
 	String type="ANIMAL";
-	String name="BIRD";
+	String name="ANIMAL";
 	
 	String sing = "I can Sing";
 	String fly = "I can Fly";
