@@ -1,5 +1,4 @@
 # animalservice  
-(This is an original work done by Sugyant Chettri as part of coding assignment)
 
 There are two parts to this application 
 
